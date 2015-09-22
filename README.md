@@ -4,4 +4,5 @@ Simple script that uses www.locu.com to return the names of restaurants in a giv
 
 # Usage
 Install python 3.5 and run locu-restaurants.py. Enter the name of a city
-to get the names of the restaurants in that city according to www.locu.com.
+and it's country. The names of the restaurants in that city will be saved
+to output.txt.
